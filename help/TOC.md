@@ -1,17 +1,17 @@
 ---
-user-guide-title: Adobe Advertising Tutorials
+user-guide-title: Tutoriais da Adobe Advertising
 user-guide-description: Uma coleção de vídeos e tutoriais da Adobe Advertising.
-breadcrumb-title: Tutorials de publicidade
+breadcrumb-title: Tutoriais da Advertising
 solution: Advertising, Advertising Cloud
 source-git-commit: d30a1b72f953f0357d5f2d5c170153226369e519
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 8%
+ht-degree: 15%
 
 ---
 
 
-# Adobe Advertising Tutorials {#tutorials}
+# Tutoriais da Adobe Advertising  {#tutorials}
 
 + [Visão geral](overview.md)
 + DSP {#dsp}
