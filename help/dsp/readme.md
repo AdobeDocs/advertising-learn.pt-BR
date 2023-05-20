@@ -7,6 +7,6 @@ ht-degree: 0%
 ---
 # Adobe Advertising DSP Tutorials
 
-Esta é a pasta de páginas de vídeo sobre DSP.
+Esta é a pasta das páginas de vídeo sobre DSP.
 
-**Observação: Esta página não é publicada na documentação voltada para o cliente.**
+**Observação: esta página não está publicada na documentação voltada para o cliente.**

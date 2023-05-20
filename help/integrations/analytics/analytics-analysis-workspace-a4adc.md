@@ -1,5 +1,5 @@
 ---
-title: Introdução ao [!DNL Analysis Workspace] para reportar dados de publicidade do Adobe
+title: Introdução ao [!DNL Analysis Workspace] para dados de publicidade do Adobe de relatórios
 description: Saiba como você pode usar seus dados de publicidade do Adobe para criar relatórios visuais no Adobe Analytics [!DNL Analysis Workspace].
 exl-id: 83e96311-e871-4913-959e-473be62c5c47
 source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 ---
 
-# Introdução ao [!DNL Analysis Workspace] para reportar dados de publicidade do Adobe
+# Introdução ao [!DNL Analysis Workspace] para dados de publicidade do Adobe de relatórios
 
 Saiba como você pode usar seus dados de publicidade do Adobe para criar relatórios visuais no Adobe Analytics [!DNL Analysis Workspace].
 
