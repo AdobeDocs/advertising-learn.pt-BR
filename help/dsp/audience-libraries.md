@@ -1,7 +1,8 @@
 ---
 title: Bibliotecas de público-alvo do DSP e aplicação de direcionamento comportamental
 description: Saiba mais sobre bibliotecas de público-alvo reutilizáveis para personalizar a definição de metas comportamentais.
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+feature: DSP Audiences
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
