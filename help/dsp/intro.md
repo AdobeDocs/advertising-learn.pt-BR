@@ -1,8 +1,9 @@
 ---
 title: Introdução ao Adobe Advertising DSP
 description: Saiba mais sobre o Adobe Advertising DSP e como ele pode beneficiar suas campanhas de mídia.
+feature: DSP Introduction
 exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+source-git-commit: af3e559e82e634a736788a66a9312bee3e3f002c
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
