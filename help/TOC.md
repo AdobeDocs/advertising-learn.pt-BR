@@ -4,7 +4,8 @@ user-guide-description: Uma coleção de vídeos e tutoriais da Adobe Advertisin
 breadcrumb-title: Tutorials da Advertising
 role: User
 level: Beginner, Intermediate
-source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
+auto-video-transcripts: true
+source-git-commit: 65f84dafc00203be415e60f4e3aabbfba70d7fbb
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 16%
@@ -30,7 +31,7 @@ ht-degree: 16%
    + [Usar [!DNL Marketing Channels] para relatório de Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
    + [Criar [!DNL Analytics] Perfis para Ativação e Relatórios de Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Criar uma análise de campanha de pré-lançamento com o Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
-   + [Criar painéis de publicidade do Adobe com o Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
+   + [Criar painéis do Adobe Advertising com o Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Criar [!DNL Analytics] Métricas personalizadas com dados de Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
