@@ -14,13 +14,13 @@ ht-degree: 25%
 
 # Tutorials da Adobe Advertising
 
-Esses tutoriais em vídeo, juntamente com a [Documentação do Adobe Advertising](https://experienceleague.adobe.com/docs/advertising-cloud.html), ajudarão você a usar o Adobe Advertising para obter insights do cliente mais rápido do que nunca.
+Esses tutoriais em vídeo, juntamente com a [documentação sobre o Adobe Advertising](https://experienceleague.adobe.com/docs/advertising-cloud.html), ajudarão você a usar o Adobe Advertising para obter insights do cliente mais rápido do que nunca.
 
 Os vídeos estão disponíveis para:
 
-* Publicidade em DSP
+* Advertising DSP
 
-* Integrações do Advertising DSP e da Advertising Search com outros produtos e serviços da Adobe Experience Cloud
+* Integrações do Advertising DSP e do Advertising Search com outros produtos e serviços da Adobe Experience Cloud
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content

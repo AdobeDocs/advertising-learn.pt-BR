@@ -5,7 +5,7 @@ source-wordcount: '22'
 ht-degree: 0%
 
 ---
-# Adobe Advertising DSP Tutorials
+# Tutorials Adobe Advertising DSP
 
 Esta é a pasta das páginas de vídeo sobre DSP.
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Criar [!DNL Analytics] Métricas personalizadas com dados de publicidade do Adobe
+# Criar [!DNL Analytics] métricas personalizadas com dados de Adobe Advertising
 
 *Anunciantes com[!DNL Adobe Analytics for Adobe Advertising]*
 

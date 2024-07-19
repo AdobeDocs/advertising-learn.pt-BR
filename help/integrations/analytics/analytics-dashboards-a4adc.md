@@ -1,5 +1,5 @@
 ---
-title: Criar painéis de publicidade do Adobe com o Adobe Analytics
+title: Criar painéis do Adobe Advertising com o Adobe Analytics
 description: Conheça as técnicas para criar um painel de Adobe Advertising para o monitoramento de campanha ao vivo
 level: Intermediate, Experienced
 topic: Integrations
