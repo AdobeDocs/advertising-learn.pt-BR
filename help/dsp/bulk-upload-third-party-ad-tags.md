@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Saiba como fazer upload de várias tags de anúncios de terceiros de cada vez.
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342178?captions=por_br)

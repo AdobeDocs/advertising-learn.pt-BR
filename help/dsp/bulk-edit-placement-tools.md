@@ -14,5 +14,5 @@ ht-degree: 0%
 
 Saiba como editar as configurações para vários posicionamentos de uma só vez no DSP.
 
->[!VIDEO](https://video.tv.adobe.com/v/339205)
+>[!VIDEO](https://video.tv.adobe.com/v/3414157?captions=por_br)
 

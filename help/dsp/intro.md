@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Saiba mais sobre o Advertising DSP, incluindo como ele se encaixa no Adobe Experience Cloud, o que ele pode fazer pelos anunciantes e como uma integração com o Adobe Analytics e serviços adicionais pode beneficiar suas campanhas de mídia.
 
->[!VIDEO](https://video.tv.adobe.com/v/339200)
+>[!VIDEO](https://video.tv.adobe.com/v/3414159?captions=por_br)
