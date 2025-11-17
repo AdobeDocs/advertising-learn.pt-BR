@@ -29,7 +29,7 @@ Após concluir essas etapas e fornecer a visualização de dados para sua equipe
 
 ## Criar uma visualização de dados no Analysis Workspace com as métricas a serem exportadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476761?captions=por_br&learn=on)
 
 >[!MORELIKETHIS]
 >
