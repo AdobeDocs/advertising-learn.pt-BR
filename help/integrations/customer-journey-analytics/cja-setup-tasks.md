@@ -23,7 +23,7 @@ Após concluir essas etapas e fornecer a visualização de dados para sua equipe
 
 ### Visão geral
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476828?captions=por_br)
 
 ### Etapa 1: configurar uma conta de localização no Customer Journey Analytics
 
@@ -53,7 +53,7 @@ Após concluir essas etapas e fornecer a visualização de dados para sua equipe
 
 ### Etapa 3: definir configurações de persistência e campos derivados para dimensões do Adobe Advertising
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476937?captions=por_br&learn=on)
 
 >[!MORELIKETHIS]
 >
