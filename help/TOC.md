@@ -5,9 +5,9 @@ breadcrumb-title: Tutorials da Advertising
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 387ce23256fd76e8835a33ead30be6e1d75799cd
+source-git-commit: 202fc9fe52e03eab7931582f06a1847e8beb1d19
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 18%
 
 ---
@@ -35,7 +35,8 @@ ht-degree: 18%
    + [Criar [!DNL Analytics] Métricas personalizadas com dados do Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 + [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
-<!-- Add to DSP chapter once the videos are complete:
+<!-- 
+Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
