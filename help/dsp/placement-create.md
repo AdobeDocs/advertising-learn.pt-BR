@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Saiba como criar uma disposição de exibição padrão para uma campanha do DSP.
 
->[!VIDEO](https://video.tv.adobe.com/v/340454)
+>[!VIDEO](https://video.tv.adobe.com/v/345003?captions=por_br)
