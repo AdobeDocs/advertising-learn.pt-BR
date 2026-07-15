@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Entenda como suas contas de anúncio do DSP estão estruturadas, como usar as exibições de gerenciamento de campanha e informações sobre o gerenciamento de público-alvo, gerenciamento de inventário, relatórios, configurações e taxas administrativas e recursos de rastreamento de recursos.
 
->[!VIDEO](https://video.tv.adobe.com/v/339206)
+>[!VIDEO](https://video.tv.adobe.com/v/3414158?captions=por_br)
