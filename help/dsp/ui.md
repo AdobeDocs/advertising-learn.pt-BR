@@ -1,5 +1,5 @@
 ---
-title: Estrutura de contas e interface do usuário do DSP
+title: Estrutura de conta e interface do usuário do DSP
 description: Conheça a estrutura de conta e a interface do usuário do DSP.
 feature: DSP Campaign Data Views, DSP Audiences, DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs, DSP Custom Reports
 exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
@@ -22,15 +22,15 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 48
+source-wordcount: 53
 ht-degree: 0%
 
 ---
 
 # Estrutura de conta e interface do usuário
 
-Saiba como suas contas de anúncio do DSP são estruturadas, como usar as exibições de gerenciamento de campanha e descrições dos recursos de gerenciamento de público-alvo, inventário, relatórios, configurações e recursos.
+Entenda como suas contas de anúncio do DSP estão estruturadas, como usar as exibições de gerenciamento de campanha e informações sobre o gerenciamento de público-alvo, gerenciamento de inventário, relatórios, configurações e taxas administrativas e recursos de rastreamento de recursos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414158?captions=por_br)

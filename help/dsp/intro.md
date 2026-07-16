@@ -20,15 +20,15 @@ topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 47
 ht-degree: 0%
 
 ---
 
 # Introdução ao Adobe Advertising DSP
 
-Saiba mais sobre o Advertising DSP, incluindo como ele se encaixa no Adobe Experience Cloud, o que ele pode fazer pelos anunciantes e como uma integração com o Adobe Analytics e serviços adicionais pode beneficiar suas campanhas de mídia.
+Saiba mais sobre a Advertising DSP, sua função na Adobe Experience Cloud e como as integrações com o Adobe Analytics e outros serviços podem beneficiar suas campanhas de mídia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414159?captions=por_br)

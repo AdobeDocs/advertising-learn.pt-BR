@@ -1,5 +1,5 @@
 ---
-title: Como editar disposições usando ferramentas de edição em massa para o DSP
+title: Como editar disposições usando ferramentas de edição de lote para o DSP
 description: Saiba como editar as configurações para vários posicionamentos de uma só vez.
 feature: DSP Placements
 exl-id: 3c9abc04-0261-4ba1-a19d-68a6d862f660
@@ -15,14 +15,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: 42
 ht-degree: 0%
 
 ---
 
-# Como editar disposições usando ferramentas de edição em massa
+# Como editar disposições usando ferramentas de edição de lote
 
 Saiba como editar as configurações para várias disposições de uma só vez no DSP.
 

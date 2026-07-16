@@ -1,5 +1,5 @@
 ---
-title: Tutorials da Adobe Advertising
+title: Tutoriais do Adobe Advertising
 description: Uma coleção de vídeos e tutoriais da Adobe Advertising.
 cloud: Experience Cloud
 product: advertising cloud
@@ -17,16 +17,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
-ht-degree: 23%
+source-wordcount: 61
+ht-degree: 14%
 
 ---
 
-# Tutorials da Adobe Advertising
+# Tutoriais do Adobe Advertising
 
-Esses tutoriais em vídeo, juntamente com a [documentação do Adobe Advertising](https://experienceleague.adobe.com/pt-br/docs/advertising), ajudarão você a usar o Adobe Advertising para obter insights do cliente mais rápido do que nunca.
+Estes tutoriais em vídeo, juntamente com a [documentação do Adobe Advertising](https://experienceleague.adobe.com/pt-br/docs/advertising), explicam como usar o Adobe Advertising para obter insights mais rápidos do cliente.
 
 Os vídeos estão disponíveis para:
 

@@ -1,5 +1,5 @@
 ---
-title: Criar [!DNL Analytics] Perfis para Ativação e Relatórios do Adobe Advertising
+title: Criar  [!DNL Analytics] perfis para ativação e relatórios do Adobe Advertising
 description: Saiba como usar o Adobe Analytics para criar pools robustos de redirecionamento de site para remarketing do Adobe Advertising.
 level: Intermediate, Experienced
 topic: Integrations
@@ -14,17 +14,17 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 49
+source-wordcount: 48
 ht-degree: 0%
 
 ---
 
-# Criar [!DNL Analytics] Perfis para Ativação e Relatórios do Adobe Advertising
+# Criar [!DNL Analytics] perfis para ativação e relatórios do Adobe Advertising
 
 *Anunciantes com[!DNL Adobe Analytics for Adobe Advertising]*
 
-Saiba como usar o Adobe Analytics para criar pools robustos de redirecionamento de site para remarketing do Adobe Advertising.
+Saiba como usar o Adobe Analytics para criar pools de redirecionamento de site para remarketing do Adobe Advertising.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33503)
