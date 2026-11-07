@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Saiba como criar um relatório de entrada de site do Adobe Advertising para monitorar o dia da semana, a hora do dia, o navegador e as influências geográficas.
 
->[!VIDEO](https://video.tv.adobe.com/v/33921)
+>[!VIDEO](https://video.tv.adobe.com/v/3506579?captions=por_br)

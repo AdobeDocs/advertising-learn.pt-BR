@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Conheça as técnicas para criar um painel do Adobe Advertising para monitoramento de campanha ao vivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33922)
+>[!VIDEO](https://video.tv.adobe.com/v/3506507?captions=por_br)

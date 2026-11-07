@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Saiba como usar o Adobe Analytics para criar pools de redirecionamento de site para remarketing do Adobe Advertising.
 
->[!VIDEO](https://video.tv.adobe.com/v/33503)
+>[!VIDEO](https://video.tv.adobe.com/v/3506670?captions=por_br)
