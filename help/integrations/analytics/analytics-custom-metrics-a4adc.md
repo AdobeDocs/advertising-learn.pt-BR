@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Identifique métricas personalizadas a serem criadas ao usar dados do Adobe Advertising no Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/33919)
+>[!VIDEO](https://video.tv.adobe.com/v/3506489?captions=por_br)
